@@ -5,9 +5,9 @@ Changing datatype from object to Int or float as per required.
 Removing rows based on condition.
 After cleaning, Exploratory Data Analysis was performed. Was able to answer following business related question.
 
--Which was the best sales for the store?
--Which city/state had most number of sales?
--Which two products are often sold together?
--What time is best to display advertisements for the store in order to generate more sales?
+-What was the best month for sales? How much was earned that month?
+-What city sold the most product?
+-What time should we display advertisements to maximize likelihood of customer's buying product?
+-What products are most often sold together?
 
 This analysis can be used by the store to generate more sales by attracting more customers, by offering promotions on multiple combo deals. Providing deals on hot selling products.etc
